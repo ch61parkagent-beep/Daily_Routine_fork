@@ -1,0 +1,7 @@
+# ── 로컬 환경 ──
+.env
+*.log
+
+# ── OS ──
+Thumbs.db
+.DS_Store
